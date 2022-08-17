@@ -1,9 +1,0 @@
-[
-	{
-		"name": "Game of Thornes Wiki",
-		"image": "../../assets/got_ui.png",
-		"deployed_link": "https://game-of-thrones-ui.herokuapp.com/",
-		"github_link": "https://github.com/PreetamKumari/got_ui",
-		"description": "Game of Thrones UI that displays got characters and their famous quotes."
-	}
-]
